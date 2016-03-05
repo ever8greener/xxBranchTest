@@ -17,6 +17,7 @@
     if (self) {
         self.data = [NSMutableData dataWithCapacity:2*1024*1024];
         //2 mega data 를 생성합니다.
+        //쓸데없는 주석입니다.
     }
     return self;
 }
